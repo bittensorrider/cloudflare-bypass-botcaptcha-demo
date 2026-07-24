@@ -2,6 +2,8 @@
 
 Research/Education purpose
 
+![Cloudflare Turnstile Captcha](screenshot.png)
+
 ## Prerequisites
 
 ```yaml
